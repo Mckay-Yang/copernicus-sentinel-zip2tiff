@@ -1,0 +1,8 @@
+output/
+input/
+meta
+*.xml
+*.txt
+*.tif*
+test.*
+.DS_Store
